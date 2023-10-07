@@ -1,2 +1,2 @@
-# Livro-400-exerc-cios-Python
+# Livro-400-exercicios-Python
 Resolução dos 400 exercícios do livro
